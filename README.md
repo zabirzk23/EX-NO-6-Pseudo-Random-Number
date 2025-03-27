@@ -10,8 +10,8 @@ Get the number of randon number to generate.
 Pass the value for number of iterations and print the numbers.
 End the program.
 
-# PROGRAM
+# PROGRAM:
 
-# OUTPUT
+# OUTPUT:
 
-# RESULT
+# RESULT:
